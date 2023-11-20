@@ -2,6 +2,8 @@
 
 This is a desktop version of the famous Snake Game created in Python using the Tkinter library.
 
+by [@ericczop](https://github.com/ericczop)
+
 ## Run Locally
 
 Clone the project:
