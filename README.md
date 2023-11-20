@@ -1,8 +1,3 @@
-
-Certainly! Here's the modified version without the numbers but retaining the structure:
-
-markdown
-Copy code
 # Snake Game
 
 This is a desktop version of the famous Snake Game created in Python using the Tkinter library.
