@@ -9,7 +9,7 @@ by [@ericczop](https://github.com/ericczop)
 Clone the project:
 
 ```bash
-git clone https://github.com/johnnyweak1/Python-SnakeGame
+git clone https://github.com/ericczop/SnakeGame-Python
 ```
 
 Go to the project directory:
